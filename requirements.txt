@@ -1,0 +1,13 @@
+# BiEAR dependencies (install PyTorch separately for your CUDA/CPU)
+# pip install torch torchvision torchaudio  # or use conda
+
+numpy
+scipy
+h5py
+PyYAML
+tensorboard
+soundfile
+librosa
+gammatone
+pysofaconventions
+tqdm

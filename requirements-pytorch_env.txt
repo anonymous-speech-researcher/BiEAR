@@ -1,0 +1,14 @@
+# Pinned versions from conda env "pytorch_env" (Python 3.11.9)
+# PyTorch is installed separately in that env: torch 2.7.0+cu128, torchaudio, torchvision
+# Install PyTorch first, e.g.: pip install torch torchvision torchaudio (or with CUDA index)
+
+numpy==1.26.4
+scipy==1.14.0
+h5py==3.12.1
+PyYAML==6.0.1
+tensorboard==2.17.0
+soundfile==0.12.1
+librosa==0.10.2.post1
+Gammatone==1.0.3
+pysofaconventions==0.1.5
+tqdm==4.66.5
